@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/invitation_troyanna830/static/css/main.2e4519cd.chunk.css",
+    "main.js": "/invitation_troyanna830/static/js/main.3242ab87.chunk.js",
+    "main.js.map": "/invitation_troyanna830/static/js/main.3242ab87.chunk.js.map",
+    "runtime-main.js": "/invitation_troyanna830/static/js/runtime-main.7a8de225.js",
+    "runtime-main.js.map": "/invitation_troyanna830/static/js/runtime-main.7a8de225.js.map",
+    "static/js/2.e90a2c7a.chunk.js": "/invitation_troyanna830/static/js/2.e90a2c7a.chunk.js",
+    "static/js/2.e90a2c7a.chunk.js.map": "/invitation_troyanna830/static/js/2.e90a2c7a.chunk.js.map",
+    "index.html": "/invitation_troyanna830/index.html",
+    "precache-manifest.4a9b3647ac376e82d6be61d1194e13bb.js": "/invitation_troyanna830/precache-manifest.4a9b3647ac376e82d6be61d1194e13bb.js",
+    "service-worker.js": "/invitation_troyanna830/service-worker.js",
+    "static/css/main.2e4519cd.chunk.css.map": "/invitation_troyanna830/static/css/main.2e4519cd.chunk.css.map",
+    "static/js/2.e90a2c7a.chunk.js.LICENSE.txt": "/invitation_troyanna830/static/js/2.e90a2c7a.chunk.js.LICENSE.txt",
+    "static/media/main.jpg": "/invitation_troyanna830/static/media/main.4c17eff8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a8de225.js",
+    "static/js/2.e90a2c7a.chunk.js",
+    "static/css/main.2e4519cd.chunk.css",
+    "static/js/main.3242ab87.chunk.js"
+  ]
+}
