@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/invitation_troyanna830/static/css/main.2e4519cd.chunk.css",
-    "main.js": "/invitation_troyanna830/static/js/main.3242ab87.chunk.js",
-    "main.js.map": "/invitation_troyanna830/static/js/main.3242ab87.chunk.js.map",
+    "main.js": "/invitation_troyanna830/static/js/main.461219c0.chunk.js",
+    "main.js.map": "/invitation_troyanna830/static/js/main.461219c0.chunk.js.map",
     "runtime-main.js": "/invitation_troyanna830/static/js/runtime-main.7a8de225.js",
     "runtime-main.js.map": "/invitation_troyanna830/static/js/runtime-main.7a8de225.js.map",
     "static/js/2.e90a2c7a.chunk.js": "/invitation_troyanna830/static/js/2.e90a2c7a.chunk.js",
     "static/js/2.e90a2c7a.chunk.js.map": "/invitation_troyanna830/static/js/2.e90a2c7a.chunk.js.map",
     "index.html": "/invitation_troyanna830/index.html",
-    "precache-manifest.67b939d67169195a24ec29e36c97cf79.js": "/invitation_troyanna830/precache-manifest.67b939d67169195a24ec29e36c97cf79.js",
+    "precache-manifest.42fdbdf60b915142c79b825bff3a2a05.js": "/invitation_troyanna830/precache-manifest.42fdbdf60b915142c79b825bff3a2a05.js",
     "service-worker.js": "/invitation_troyanna830/service-worker.js",
     "static/css/main.2e4519cd.chunk.css.map": "/invitation_troyanna830/static/css/main.2e4519cd.chunk.css.map",
     "static/js/2.e90a2c7a.chunk.js.LICENSE.txt": "/invitation_troyanna830/static/js/2.e90a2c7a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.7a8de225.js",
     "static/js/2.e90a2c7a.chunk.js",
     "static/css/main.2e4519cd.chunk.css",
-    "static/js/main.3242ab87.chunk.js"
+    "static/js/main.461219c0.chunk.js"
   ]
 }

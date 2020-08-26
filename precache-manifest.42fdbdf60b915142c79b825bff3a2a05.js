@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1814f7f44cd2acf828688ca35d1ab679",
+    "revision": "56bdb178ffa27aa03cbf611067bfda55",
     "url": "/invitation_troyanna830/index.html"
   },
   {
-    "revision": "999fd467e626fae9efc6",
+    "revision": "b2f44d4ee13b77f94fc8",
     "url": "/invitation_troyanna830/static/css/main.2e4519cd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/invitation_troyanna830/static/js/2.e90a2c7a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "999fd467e626fae9efc6",
-    "url": "/invitation_troyanna830/static/js/main.3242ab87.chunk.js"
+    "revision": "b2f44d4ee13b77f94fc8",
+    "url": "/invitation_troyanna830/static/js/main.461219c0.chunk.js"
   },
   {
     "revision": "ef2f17fb54d80e956087",
